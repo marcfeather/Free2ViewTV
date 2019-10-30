@@ -117,6 +117,8 @@
 # Update: 10/28/19  - MAJOR UPDATE: Internet Archive, where my files are stored, locked out files due to high bandwidth usage...
 #                     ... relocated playlists, logo files, and (soon) extra materials to a new set of servers. This update:
 #                     ... complete update of remote links and logos, and new name of playlists for 2020. More tweaks to follow.
+# Update: 10/30/19  - PLAYLIST MAINTENANCE: Completed file transfers to new servers, all F2V-TV video extras working now.
+# Update: 10/30/19  - NEW CHANNELS ADDED: Added VSiN (Sports Betting) in Sports category.
 #
 # ************************************************************************************************************************************* 
 
@@ -174,7 +176,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheWeatherChannel.png" group-title="News & Weather",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ETLive.jpg" group-title="News & Weather",ET Live Showbiz News
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ETLive.png?raw=true" group-title="News & Weather",ET Live Showbiz News
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Cheddar_900x900.png" group-title="News & Weather",Cheddar
 https://live.chdrstatic.com/cheddar/primary/2.m3u8
@@ -209,6 +211,8 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VSiN_400x400.png?raw=true" group-title="Sports",VSiN (Sports Betting)
+https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCGolf.png" group-title="Sports",Golf Channel (Geo-USA)
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports",CBS Sports HQ (Geo-USA)
@@ -218,7 +222,7 @@ https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a583
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Mobcrush_400x400.png" group-title="Special Interest",Mobcrush (Video Games)
 https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RoosterTeeth.jpg" group-title="Special Interest",RT-TV (Video Games)
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RoosterTeeth.png?raw=true" group-title="Special Interest",RT-TV (Video Games)
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OutdoorCookingChannel.png" group-title="Special Interest",Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
@@ -568,7 +572,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Bloomberg_512x512.png" group-title="International TV",Bloomberg EU
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1, tvg-logo="https://archive.org/download/FreeIPTV20190226V2/NHKWorldJapan_600x600_thumb.jpg" group-title="International TV",NHK World Japan
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NHKWorldJapan_600x600.png?raw=true" group-title="International TV",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-Live_256x256.png" group-title="International TV",Russia Today Live
 https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
@@ -626,7 +630,7 @@ https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.181.227.250:8166/listen.pls?sid=1&t=.m3u
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="OTR On Demand", Mercury Theatre On The Air (10-30-38) War Of The Worlds
-https://archive.org/download/FreeIPTV20190226V2/OTR_MERC017.mp4
+https://archive.org/download/F2VMaster/OTR_MERC017.mp4
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Top 5",Buzzr TOP 5
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
@@ -639,13 +643,22 @@ https://1161275585.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Top 5",CNN News TOP 5
 https://1161275585.rsc.cdn77.org/ls-54548-1/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AboutUs_392x392.png" group-title="About Us + Extras",Free2View TV!
-https://archive.org/download/FreeIPTV20190226V2/Free2ViewTV_billboard-v2.mp4
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AboutUs_392x392.png" group-title="About Us + Extras",Buy Me A Coffee?
-https://archive.org/download/FreeIPTV20190226V2/Free2ViewTV_BuyMeACoffee_billboard-v1.mp4
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AboutUs_392x392.png" group-title="About Us + Extras",Roku Skyline Screensaver
-https://archive.org/download/FreeIPTV20190226V2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AboutUs_392x392.png" group-title="About Us + Extras",Roku Movie Magic Screensaver
-https://archive.org/download/FreeIPTV20190226V2/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Free2View TV!
+https://archive.org/download/F2VMaster/Free2ViewTV_billboard-v2.mp4
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Buy Me A Coffee?
+https://archive.org/download/F2VMaster/Free2ViewTV_BuyMeACoffee_billboard-v1.mp4
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Skyline Screensaver
+https://archive.org/download/F2VMaster/Roku_City-Stroll_Skyline_720p_16m43s.mp4
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
+https://archive.org/download/F2VMaster/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+
+
+
+
+
+
+
+
+
 
 
