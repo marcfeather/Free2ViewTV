@@ -123,8 +123,10 @@
 # Update: 11/02/19  - NEW SEASONAL CHANNELS ADDED: 4 new Pluto TV Seasonals added to Christmas Coll. and Pluto TV (3) Pluto+*
 #                     * all four channels will be added as soon as I can get individual SID codes to avoid stream conflicts :-)
 # Update: 11/04/19  - NEW CHANNEL ADDED: The Weather Network and The Knowledge Network have been added to Canadian TV category.
+#                     (NOTE: The Weather Network may only be live during "weather events" and does not appear to be 24/7.)
 # Update: 11/04/19  - CHANNEL MAINTENANCE: Updated CBS News NY live link. 
 # Update: 11/05/19  - CHANNEL MAINTENANCE: Removed The Country Network (the public feed died since going behind a pay-wall).
+# Update: 11/08/19  - NEW CHANNELS ADDED: ** I am excited to add new channels from the free internet TV service STIRR !! **
 #
 # ************************************************************************************************************************************* 
 
@@ -209,10 +211,10 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MLBtv.png" group-title="Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports",Olympic Channel
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports",Olympic Channel USA
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel USA
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheT_246x246.png" group-title="Sports",The T (Tennis)
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RedBullTV_512x512.png" group-title="Sports",Red Bull TV
@@ -343,7 +345,7 @@ http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="Canadian TV",NTV Newfoundland
 http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheWeatherNetwork_300x300.png?raw=true" group-title="Canadian TV",The Weather Network
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheWeatherNetwork_300x300.png?raw=true" group-title="Canadian TV",Weather Network Events
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
@@ -401,6 +403,17 @@ https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_2500.m3u8
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
+
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",Charge!
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",Comet TV
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",Filmrise Classic TV
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",Filmrise Free Movies
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" group-title="Stirr TV",Stingray Ambiance
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (1) TV Greats",1 Pluto TV Lineup
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=4a3a9b6f-fe3c-46ca-bf21-8196d40ff823&advertisingId=&deviceLat=37.7353&deviceLon=-122.3732&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
@@ -683,10 +696,6 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoff
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
-
-
-
-
 
 
 
