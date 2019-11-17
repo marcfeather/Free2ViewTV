@@ -181,7 +181,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
+https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -190,6 +190,8 @@ https://nbcnews-lh.akamaihd.net/i/nbc_live12@187393/master.m3u8
 https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 4
 https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 5
+https://nbcnews-lh.akamaihd.net/i/nbc_live21@183428/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/LawAndCrime_340x340.png" group-title="Law + Justice",L&C Law & Crime
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/live.m3u8
@@ -432,40 +434,18 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637de
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",690 Geek + Sundry
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=206e0c37-40fe-404b-ab93-007013902233&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC (KMBC) [CT]
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS (KCTV) [CT]
-https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="USA FREE OTA TV",NBC (KOMU) [CT]
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX (KQFX) [CT]
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="USA FREE OTA TV",CW (KOMU) [CT]
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PBS_KCPT.png" group-title="USA FREE OTA TV",PBS (KCPT) [CT]
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MyTV_KZOU.png" group-title="USA FREE OTA TV",MyTV (KZOU) [CT]
-https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="USA FREE OTA TV",Comet (KCTV) [CT]
-https://cvtv.cvalley.net/hls/KCTVComet/KCTVComet.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MeTV_555x555.png" group-title="USA FREE OTA TV",MeTV (KMBC) [CT]
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GritTV_375x375.png" group-title="USA FREE OTA TV",Grit (KMCI) [CT]
-https://cvtv.cvalley.net/hls/KMCIGrit/KMCIGrit.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CoziTV_400x400.png" group-title="USA FREE OTA TV",Cozi TV (KSNB) [CT]
-https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AntennaTV_512x512.png" group-title="USA FREE OTA TV",Antenna TV (WDAF) [CT]
-https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Laff_375x375.png" group-title="USA FREE OTA TV",Laff TV (KSHB) [CT]
-https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="USA FREE OTA TV",Comet (KRCG) [CT]
-https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MeTV_555x555.png" group-title="USA FREE OTA TV",MeTV (KMIZ) [CT]
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GritTV_375x375.png" group-title="USA FREE OTA TV",Grit (KYOU) [CT]
-https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" group-title="USA FREE OTA TV",Comet (KTVO) [CT]
-https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS-TV
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="USA FREE OTA TV",NBC-TV
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX-TV
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="USA FREE OTA TV",The CW
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="USA FREE OTA TV",PBS-TV
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-1
 https://1161275585.rsc.cdn77.org/ls-54548-1/index.m3u8
@@ -599,10 +579,6 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoff
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
-
-
-
-
 
 
 
