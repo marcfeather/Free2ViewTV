@@ -134,6 +134,10 @@
 # Update: 11/17/19  - CHANNEL MAINTENANCE: cvtv.cvalley.net links died two days ago, removed from USA FREE OTA TV.
 # Update: 11/17/19  - CHANNEL MAINTENANCE: replacement channels for major US local networks added into USA FREE OTA TV.
 # Update: 11/17/19  - NEW CHANNELS: Two Hallmark Channels added from original network sources! Entertainment & Christmas categories.
+# Update: 11/18/19  - NEW CHANNELS: Additional NASA channel appears to be working, added; Added new CBS News Bay Area live stream.
+# Update: 11/19/19  - CHANNEL MAINTENANCE: Removed the dead HBO channels from the International Channels category.
+# Update: 11/21/19  - CHANNEL MAINTENANCE: Updated live stream links in the Nostalgia TV + Movies category.
+# Update: 11/21/19  - NEW CHANNELS: Added "It's At The Movies" (Nostalgia TV + Movies); added additional locals (USA FREE OTA TV)
 #
 # ************************************************************************************************************************************* 
 
@@ -181,11 +185,13 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_AmClassicNetwork.png" group-title="Nostalgia TV + Movies",American Classic Network
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_ClassicTV4U.png" group-title="Nostalgia TV + Movies",Classic TV 4U
-https://central.dashstreams.net/onestudio/classictv/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" group-title="Nostalgia TV + Movies",Spydar TV
-https://central.dashstreams.net/onestudio/spydar/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png" group-title="Nostalgia TV + Movies",Westerns 4U
-https://central.dashstreams.net/onestudio/western4u/playlist.m3u8
+https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" group-title="Nostalgia TV + Movies",It's At The Movies
+https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_1.m3u8
@@ -247,8 +253,10 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunk
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/JUCEtv.png" group-title="Special Interest",JUCE TV (Youth)
 https://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 1
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 2
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MusicChoice.png" group-title="Special Interest",Music Choice Play (Music)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" group-title="Special Interest",Relaxing Guitar Music
@@ -287,10 +295,12 @@ http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunkli
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_1.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News NY
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News LA
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Boston
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News LA
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News (Event)
 https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi Sports HQ (Geo-USA)
@@ -324,7 +334,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-http://m3ulink.com:7899/live/enzo.rreiss1-restream/kXCzhzQZ/3245.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -577,18 +587,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637de
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="Pluto TV (3) Pluto+",690 Geek + Sundry
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=206e0c37-40fe-404b-ab93-007013902233&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS-TV
-http://190.80.3.28/CBS/CBS.isml/index.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="USA FREE OTA TV",NBC-TV
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX-TV
-http://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV (1)
+http://87.120.36.62:8080/hls/streama107366/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS-TV (1)
+http://87.120.36.62:8080/hls/streama107367/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="USA FREE OTA TV",NBC-TV (1)
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX-TV (1)
+http://87.120.36.62:8080/hls/streama108379/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="USA FREE OTA TV",The CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="USA FREE OTA TV",PBS-TV
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV (2)
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS-TV (2)
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBC.png" group-title="USA FREE OTA TV",NBC-TV (2)
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX-TV (2)
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-1
 https://1161275585.rsc.cdn77.org/ls-54548-1/index.m3u8
@@ -615,10 +633,6 @@ https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-3
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/HBO2_520x520.png" group-title="International TV",HBO 2 (HD)
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/HBO2_520x520.png" group-title="International TV",HBO 2 (SD)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" group-title="International TV",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/logo_m2o_1024x1024.png" group-title="International TV",m2o TV
@@ -726,20 +740,6 @@ https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoff
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1, tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
