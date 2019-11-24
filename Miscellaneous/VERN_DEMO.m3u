@@ -893,7 +893,10 @@ http://live.savitar.tv/AE/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAv
 http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTAvMjAxOSAxMTo1MToxNyBQTSZoYXNoX3ZhbHVlPXFaUitlUFNSQ2dNbVVuLzhLV3FQdlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 
 #EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (USTVGO)
-http://live.savitar.tv/Travel/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAxOSA2OjQ2OjExIFBNJmhhc2hfdmFsdWU9QjZta3FRZndLdDZnRzJTcHFvZFhMdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://live.savitar.tv/Travel/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMjo1ODoyMyBBTSZoYXNoX3ZhbHVlPXRPblZLMDkrRldLMzJtVmFGcUt1ZXc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
+
+
+
 
 
 #EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_PayTV_539x539.png",MSNBC (Gator78)
