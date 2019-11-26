@@ -142,6 +142,7 @@
 # Update: 11/24/19  - NEW PLUTO TV CHANNELS ADDED: 917 monstercat TV (Pluto+ Category).
 # Update: 11/24/19  - NEW CHANNELS ADDED: By request, three Fashion TV / FTV channels added in the International TV category.
 # Update: 11/25/19  - PLAYLIST MAINTENANCE: Updated logos for Fashion TV; CBS News link updated.
+# Update: 11/26/19  - MAINTENANCE: Deleted Multi Res. Feeds category since individual MASTER links usually auto-adjusts resolutions.
 #
 # ************************************************************************************************************************************* 
 
@@ -198,7 +199,7 @@ https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/30c513af-29d7-4224-b315-fb21b478b909:CBF2/master.m3u8
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABCNewsLive.png" group-title="News & Weather",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/WeatherNation.png" group-title="News & Weather",Weather Nation
@@ -296,7 +297,7 @@ http://usaserver.miamitvchannel.com/miamitv/miamitv1/chunklist.m3u8
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/30c513af-29d7-4224-b315-fb21b478b909:CBF2/master.m3u8
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News NY
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Boston
@@ -660,25 +661,6 @@ https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-UK_400x400.png" group-title="International TV",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",CBS News (360p)
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",CBS News (540p)
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",CBS News (720p)
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",Olympic Channel (480p)
-https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",Olympic Channel (720p)
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",Olympic Channel (1080p)
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",RT-TV (480p) (Video Games)
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b1628000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",RT-TV (720p) (Video Games)
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b2628000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Multi-Res_350x350.png" group-title="Multi Resolution Feeds",RT-TV (1080p) (Video Games)
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b4128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_SnagFilms_512x512.png" group-title="Movie Classics VOD",TV Fireplace (2013)
 https://ipad2snagfilms.akamaized.net/fireplace_home_classic_edition_HD/fireplace_home_classic_edition_HD_2564k.m3u8
