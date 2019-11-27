@@ -143,6 +143,10 @@
 # Update: 11/24/19  - NEW CHANNELS ADDED: By request, three Fashion TV / FTV channels added in the International TV category.
 # Update: 11/25/19  - PLAYLIST MAINTENANCE: Updated logos for Fashion TV; CBS News link updated.
 # Update: 11/26/19  - MAINTENANCE: Deleted Multi Res. Feeds category since individual MASTER links usually auto-adjusts resolutions.
+# Update: 11/26/19  - RADIO: Re-organizing the LIVE RADIO categories: Removed Fox News Radio (dead link); added new radio/audio feeds.
+# Update: 11/26/19  - UPDATED CATEGORIES: RADIO (HLS) for IPTV; and RADIO (VLC) will NOT work on IPTV, needs external or VLC player.
+# Update: 11/26/19  - (continued) deleted OTR On-Demand category (for now, just don't have enough media for this category.)
+# Update: 11/26/19  - (continued) added additional CBC Canada radio feeds from the west coast; relocated RADIO's to end of list.
 #
 # ************************************************************************************************************************************* 
 
@@ -662,38 +666,6 @@ https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-UK_400x400.png" group-title="International TV",Russia Today UK
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_SnagFilms_512x512.png" group-title="Movie Classics VOD",TV Fireplace (2013)
-https://ipad2snagfilms.akamaized.net/fireplace_home_classic_edition_HD/fireplace_home_classic_edition_HD_2564k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_TubiTV_512x512.png" group-title="Movie Classics VOD",A&C Africa Screams (1949)
-https://fastly.tubi.video/7f188915-b81f-4f08-868d-bbf3589cc292/kj576tds/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_SnagFilms_512x512.png" group-title="Movie Classics VOD",A&C Jack & the Beanstalk (1952)
-https://ipad2snagfilms.akamaized.net/jackandthebeanstalk_SD/jackandthebeanstalk_SD_1864k.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_TubiTV_512x512.png" group-title="Movie Classics VOD",Inner Sanctum (1948)
-https://fastly.tubi.video/c770ab08-77f9-4593-993f-aacc32327121/xcn42yn6/stream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_SnagFilms_512x512.png" group-title="Movie Classics VOD",Superman Cartoons (1940s)
-https://ipad2snagfilms.akamaized.net/supermancartoons/supermancartoons_layer0_8000000/supermancartoons_index0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/internetarchive_1.png" group-title="Movie Classics VOD",Dick Tracy 4 (1947)
-https://archive.org/download/dick_tracy_meets_gruesome/dick_tracy_meets_gruesome.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC News 1 (Ottawa CA) [IPTV]
-https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Music (Eastern CA) [IPTV]
-https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - Fox News Talk Radio USA [IPTV]
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - radio m2o [IPTV]
-https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR - Antioch OTR
-http://radio.macinmind.com/listen.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR - AM600 Conyers Old Time Radio 
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.133.196:7161/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR - WRCW Radio - The Home of GUNSMOKE
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.181.227.250:8166/listen.pls?sid=1&t=.m3u
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="OTR On Demand", Mercury Theatre On The Air (10-30-38) War Of The Worlds
-https://archive.org/download/F2VMaster/OTR_MERC017.mp4
-
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Channel Christmas
 https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark_Xmas_261x261.png?raw=true" group-title="Christmas Collection",Hallmark Miracles of Christmas
@@ -720,6 +692,46 @@ https://fastly.tubi.video/477a27f2-3d64-46a8-a741-2bfc851a3ea0/54pp2gqy/stream.m
 https://fastly.tubi.video/48054273-8205-402f-893a-bf3d5ba78ee3/16601rlz/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",VOD Am. Christmas Carol (1979)
 https://fastly.tubi.video/116ffd6a-3f4e-4bd8-ab5e-aaa7ebdefe0f/doa51ifp/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_SnagFilms_512x512.png" group-title="Movie Classics VOD",TV Fireplace (2013)
+https://ipad2snagfilms.akamaized.net/fireplace_home_classic_edition_HD/fireplace_home_classic_edition_HD_2564k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_TubiTV_512x512.png" group-title="Movie Classics VOD",A&C Africa Screams (1949)
+https://fastly.tubi.video/7f188915-b81f-4f08-868d-bbf3589cc292/kj576tds/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_SnagFilms_512x512.png" group-title="Movie Classics VOD",A&C Jack & the Beanstalk (1952)
+https://ipad2snagfilms.akamaized.net/jackandthebeanstalk_SD/jackandthebeanstalk_SD_1864k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_TubiTV_512x512.png" group-title="Movie Classics VOD",Inner Sanctum (1948)
+https://fastly.tubi.video/c770ab08-77f9-4593-993f-aacc32327121/xcn42yn6/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/VOD_SnagFilms_512x512.png" group-title="Movie Classics VOD",Superman Cartoons (1940s)
+https://ipad2snagfilms.akamaized.net/supermancartoons/supermancartoons_layer0_8000000/supermancartoons_index0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/internetarchive_1.png" group-title="Movie Classics VOD",Dick Tracy 4 (1947)
+https://archive.org/download/dick_tracy_meets_gruesome/dick_tracy_meets_gruesome.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Radio 1 (Ottawa CA)
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Music (Eastern CA)
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Radio 1 (Vancouver CA)
+https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Music (Pacific CA)
+https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - radio m2o
+https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",RADIO - BNN Bloomberg 1410 CFTE
+http://18313.live.streamtheworld.com:80/CFTEAMAAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - BNN Bloomberg
+http://16123.live.streamtheworld.com:80/TV_BNNAAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - CTV News
+http://16843.live.streamtheworld.com:80/TV_CTV_NEWSAAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - CP24
+http://17523.live.streamtheworld.com:80/TV_CP24AAC_SC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - Antioch OTR
+http://radio.macinmind.com/listen.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - AM600 Conyers OTR
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.133.196:7161/listen.pls?sid=1&t=.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - WRCW Radio - GUNSMOKE
+https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.181.227.250:8166/listen.pls?sid=1&t=.m3u
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Free2View TV!
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_billboard-v2.mp4?raw=true
