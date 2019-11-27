@@ -706,32 +706,35 @@ https://ipad2snagfilms.akamaized.net/supermancartoons/supermancartoons_layer0_80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/internetarchive_1.png" group-title="Movie Classics VOD",Dick Tracy 4 (1947)
 https://archive.org/download/dick_tracy_meets_gruesome/dick_tracy_meets_gruesome.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Radio 1 (Ottawa CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Radio 1 (Ottawa CA)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Music (Eastern CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Music (Eastern CA)
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Radio 1 (Vancouver CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Radio 1 (Vancouver CA)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - CBC Music (Pacific CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Music (Pacific CA)
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - radio m2o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - BNN Radio 1410 CFTE
+http://18313.live.streamtheworld.com:80/CFTEAMAAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",TV AUDIO - BNN Bloomberg
+http://16123.live.streamtheworld.com:80/TV_BNNAAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",TV AUDIO - CTV News
+http://16843.live.streamtheworld.com:80/TV_CTV_NEWSAAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",TV AUDIO - CP24
+http://17523.live.streamtheworld.com:80/TV_CP24AAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - WGN Radio 720
+https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8/?source=v7player&user-id=124ab79824a8fa8cc66b54b9f49f70be&z=834f1374a5ab471188e887ff53c5fa6b&p=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - WGN Radio 720 (Video)
+https://livestream-f.akamaihd.net/9362560_3217058_lsi55rpgrqps2u5ttjs_1_2320@447082?v=3.8.0&fp=WIN%2032,0,0,293&r=XZHQL&g=OLEKMRKKBVXV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - radio m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",RADIO - BNN Radio 1410 CFTE
-http://18313.live.streamtheworld.com:80/CFTEAMAAC_SC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - BNN Bloomberg
-http://16123.live.streamtheworld.com:80/TV_BNNAAC_SC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - CTV News
-http://16843.live.streamtheworld.com:80/TV_CTV_NEWSAAC_SC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - CP24
-http://17523.live.streamtheworld.com:80/TV_CP24AAC_SC
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - Antioch OTR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR - Antioch OTR
 http://209.95.56.101:8000/listen
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - AM600 Conyers OTR
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.133.196:7161/listen.pls?sid=1&t=.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - WRCW Radio - GUNSMOKE
-https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.181.227.250:8166/listen.pls?sid=1&t=.m3u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR - AM600 Conyers OTR
+http://206.190.133.196:7161/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR - WRCW Radio - GUNSMOKE
+http://107.181.227.250:8166/stream
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Free2View TV!
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_billboard-v2.mp4?raw=true
