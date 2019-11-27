@@ -726,6 +726,9 @@ http://16843.live.streamtheworld.com:80/TV_CTV_NEWSAAC_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - CP24
 http://17523.live.streamtheworld.com:80/TV_CP24AAC_SC
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",RADIO - BNN Bloomberg (pls) TEST
+http://playerservices.streamtheworld.com/pls/CFTEAMAAC.pls
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - Antioch OTR
 http://radio.macinmind.com/listen.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - AM600 Conyers OTR
