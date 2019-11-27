@@ -717,7 +717,7 @@ https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (HLS)",RADIO - radio m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",RADIO - BNN Bloomberg 1410 CFTE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",RADIO - BNN Radio 1410 CFTE
 http://18313.live.streamtheworld.com:80/CFTEAMAAC_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - BNN Bloomberg
 http://16123.live.streamtheworld.com:80/TV_BNNAAC_SC
@@ -726,11 +726,8 @@ http://16843.live.streamtheworld.com:80/TV_CTV_NEWSAAC_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",TV AUDIO - CP24
 http://17523.live.streamtheworld.com:80/TV_CP24AAC_SC
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio (VLC)",RADIO - BNN Bloomberg (pls) TEST
-http://playerservices.streamtheworld.com/pls/CFTEAMAAC.pls
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - Antioch OTR
-http://radio.macinmind.com/listen.m3u
+http://209.95.56.101:8000/listen
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - AM600 Conyers OTR
 https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.133.196:7161/listen.pls?sid=1&t=.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio (VLC)",OTR - WRCW Radio - GUNSMOKE
