@@ -344,7 +344,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://2222.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
+https://2d01.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -936,10 +936,6 @@ http://gotdark.com:80/Gator78/Gator78/851
 
 #EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://archive.org/download/FreeIPTV20190226V2/TVLogos/Generic_PayTV_539x539.png",MSNBC (Jon)
 http://gotdark.com:80/jon/jon123/851
-
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="PRIVATE-1",NBC News Now MSNBC Live (ORIG)
-https://2222.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&wowzasessionid=3733446131&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
 
 
 
