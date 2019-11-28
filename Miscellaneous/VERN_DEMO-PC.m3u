@@ -202,6 +202,8 @@ https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8
 https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 5
 https://nbcnews-lh.akamaihd.net/i/nbc_live21@183428/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",PC TEST
+https://2223.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/LawAndCrime_340x340.png" group-title="Law + Justice",L&C Law & Crime
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/live.m3u8
