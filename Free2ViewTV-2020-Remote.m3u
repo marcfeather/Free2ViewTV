@@ -11,6 +11,7 @@
 # Some sources used for this list: 
 # Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
 # Distro TV: https://www.distro.tv/ designated on some channels as (DTV).
+# Some Live News feeds from: https://freenews.live/live/
 #
 # Changelog (News and Updates):
 # For complete changelog, go here: https://publicdomainradio.blogspot.com/p/free2view-tv-changelog-and-extras.html
@@ -344,7 +345,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://2205.janjua.pw:8088/live/stream_faremsnbc/master.m3u8?id=83035&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
+https://stream.hinews.live/stream/msnbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -629,6 +630,8 @@ https://1161275585.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
 https://1161275585.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-2
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-3
+https://live.freenews.live/stream/fox/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",HLN-1
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",HLN-2
@@ -733,11 +736,9 @@ https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8/?source=v7pl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",RADIO WGN Radio 720 (Video)
 https://livestream-f.akamaihd.net/9362560_3217058_lsi55rpgrqps2u5ttjs_1_2320@447082?v=3.8.0&fp=WIN%2032,0,0,293&r=XZHQL&g=OLEKMRKKBVXV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO CNN
-https://playerservices.streamtheworld.com/api/livestream-redirect/CNNTV.mp3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO CNN International
-https://playerservices.streamtheworld.com/api/livestream-redirect/CNNI.mp3
+http://64.202.109.109/cnn
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO HLN
-https://playerservices.streamtheworld.com/api/livestream-redirect/CNNH.mp3
+http://tunein.streamguys1.com:80/cnnhln
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",RADIO C-SPAN Radio
 http://16853.live.streamtheworld.com/CSPANRADIO_SC
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO C-SPAN 1
