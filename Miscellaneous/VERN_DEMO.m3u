@@ -344,7 +344,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://2d01.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
+https://2206.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
