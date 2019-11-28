@@ -147,6 +147,7 @@
 # Update: 11/26/19  - UPDATED CATEGORIES: RADIO (HLS) for IPTV; and RADIO (VLC) will NOT work on IPTV, needs external or VLC player.
 # Update: 11/26/19  - (continued) deleted OTR On-Demand category (for now, just don't have enough media for this category.)
 # Update: 11/26/19  - (continued) added additional CBC Canada radio feeds from the west coast; relocated RADIO's to end of list.
+# Update: 11/27/19  - UPDATED RADIO CHANNELS: Completely overhauled Radio channels and categories. Fixed broken / new streams added.
 #
 # ************************************************************************************************************************************* 
 
@@ -343,7 +344,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+https://2205.janjua.pw:8088/live/stream_faremsnbc/master.m3u8?id=83035&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -640,6 +641,8 @@ https://1161275585.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-3
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-4
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" group-title="International TV",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
@@ -682,6 +685,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bf48085851dd5632e2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58348b5cc4d11ba530b30f51/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=64.0.3417.73&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=256e99ae-4c94-4a55-9f65-8ee1acdb9461&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",RADIO Music Choice Christmas
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-158/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",RADIO Heart X Christmas
+http://ice-sov.musicradio.com/Heartextra
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",VOD Holiday Fireplace & Films
 https://fastly.tubi.video/8abaf7e8-ec74-445a-8517-22a18649b808/rrv2jm42/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true" group-title="Christmas Collection",VOD TV Fireplace Holiday Ed.
@@ -706,27 +711,47 @@ https://ipad2snagfilms.akamaized.net/supermancartoons/supermancartoons_layer0_80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/internetarchive_1.png" group-title="Movie Classics VOD",Dick Tracy 4 (1947)
 https://archive.org/download/dick_tracy_meets_gruesome/dick_tracy_meets_gruesome.mp4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Radio 1 (Ottawa CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",RADIO CBC Radio 1 (Ottawa CA)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_OTT@348188/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Music (Eastern CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",RADIO CBC Music (Eastern CA)
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_HFX@382379/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Radio 1 (Vancouver CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",RADIO CBC Radio 1 (Vancouver CA)
 https://cbcliveradio-lh.akamaihd.net/i/CBCR1_VCR@314572/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - CBC Music (Pacific CA)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",RADIO CBC Music (Pacific CA)
 https://cbcliveradio2-lh.akamaihd.net/i/CBCR2_VCR@353638/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - BNN Radio 1410 CFTE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",RADIO BNN Radio 1410 CFTE
 http://18313.live.streamtheworld.com:80/CFTEAMAAC_SC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",TV AUDIO - BNN Bloomberg
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",TV AUDIO BNN Bloomberg
 http://16123.live.streamtheworld.com:80/TV_BNNAAC_SC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",TV AUDIO - CTV News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",TV AUDIO CTV News
 http://16843.live.streamtheworld.com:80/TV_CTV_NEWSAAC_SC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",TV AUDIO - CP24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio CANADA",TV AUDIO CP24
 http://17523.live.streamtheworld.com:80/TV_CP24AAC_SC
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - WGN Radio 720
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",RADIO WGN Radio 720
 https://prod-54-90-102-31.wostreaming.net/wgnam-wgnamaac-hlsc2.m3u8/?source=v7player&user-id=124ab79824a8fa8cc66b54b9f49f70be&z=834f1374a5ab471188e887ff53c5fa6b&p=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - WGN Radio 720 (Video)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",RADIO WGN Radio 720 (Video)
 https://livestream-f.akamaihd.net/9362560_3217058_lsi55rpgrqps2u5ttjs_1_2320@447082?v=3.8.0&fp=WIN%2032,0,0,293&r=XZHQL&g=OLEKMRKKBVXV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio",RADIO - radio m2o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO CNN
+https://playerservices.streamtheworld.com/api/livestream-redirect/CNNTV.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO CNN International
+https://playerservices.streamtheworld.com/api/livestream-redirect/CNNI.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO HLN
+https://playerservices.streamtheworld.com/api/livestream-redirect/CNNH.mp3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",RADIO C-SPAN Radio
+http://16853.live.streamtheworld.com/CSPANRADIO_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO C-SPAN 1
+http://17533.live.streamtheworld.com:80/CSPAN1AAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO C-SPAN 2
+http://17533.live.streamtheworld.com:80/CSPAN2AAC_SC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio USA",TV AUDIO C-SPAN 3
+http://17533.live.streamtheworld.com:80/CSPAN3AAC_SC
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD",RADIO - Heart Extra Christmas
+http://ice-sov.musicradio.com/Heartextra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD",RADIO - Jamendo Lounge
+http://streaming.radionomy.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Radio.png" group-title="Live Radio WORLD",RADIO - radio m2o
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_96_a-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR - Antioch OTR
@@ -913,6 +938,8 @@ http://gotdark.com:80/Gator78/Gator78/851
 http://gotdark.com:80/jon/jon123/851
 
 
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="PRIVATE-1",NBC News Now MSNBC Live (ORIG)
+https://2205.janjua.pw:8088/live/stream_faremsnbc/playlist.m3u8?id=83035&wowzasessionid=3223610569&pk=c76e168ece9dc03f14dea123de078e7db7fb4e058187a164de802bad05db7093
 
 
 
