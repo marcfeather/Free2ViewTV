@@ -931,6 +931,4 @@ http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MT
 http://live.savitar.tv/Travel/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSAxMTo1Njo1OCBQTSZoYXNoX3ZhbHVlPThlYW9OQkdobnVnSHJ3WnRYTW1BWWc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 
 #EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (USTVGO) v2
-http://live.savitar.tv/Travel/myStream/chunks.m3u8?nimblesessionid=130042392
-
-
+https://peer3.ustv.to/Travel/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDExOjQ2OjE2IFBNJmhhc2hfdmFsdWU9RTVlQXVIL3ExUzRjUVFzVjFsNTBwQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
