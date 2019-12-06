@@ -928,8 +928,7 @@ http://live.savitar.tv/AE/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAv
 http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo1Njo1MiBQTSZoYXNoX3ZhbHVlPWh5bW8yL0dzOGtYUjlBTlJxaUFKdnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 
 #EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (USTVGO)
-https://peer3.ustv.to/Travel/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDExOjQ2OjE2IFBNJmhhc2hfdmFsdWU9RTVlQXVIL3ExUzRjUVFzVjFsNTBwQT09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
-
+https://peer3.ustv.to/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE5IDEyOjI3OjI5IEFNJmhhc2hfdmFsdWU9Z0lidTYvTFdrb21DTnJhaVhvcyt1dz09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
 
 
 
