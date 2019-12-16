@@ -962,10 +962,11 @@ http://live.savitar.tv/AE/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAv
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",AMC (USTVGO)
 http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo1Njo1MiBQTSZoYXNoX3ZhbHVlPWh5bW8yL0dzOGtYUjlBTlJxaUFKdnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (USTVGO)
-https://peer3.ustv.to/Travel/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE5IDEyOjMzOjU2IEFNJmhhc2hfdmFsdWU9MEZuaGZYL3FLY043dmJCTnBZcUNtdz09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (InkMedia)
+http://fadev.club/live/TravelChannel.m3u8
 
-
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",MSNBC (InkMedia)
+http://live.fadev.club/edge/MSNBC/playlist.m3u8
 
 
 
