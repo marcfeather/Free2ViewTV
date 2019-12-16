@@ -966,6 +966,22 @@ http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MT
 https://peer3.ustv.to/Travel/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE5IDEyOjMzOjU2IEFNJmhhc2hfdmFsdWU9MEZuaGZYL3FLY043dmJCTnBZcUNtdz09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
 
 
-http://peer4.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE5IDEyOjMzOjU2IEFNJmhhc2hfdmFsdWU9MEZuaGZYL3FLY043dmJCTnBZcUNtdz09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",The Asylum (TuboxTV)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Food52 (TuboxTV)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",The Asylum (Xumo TV)
+https://live-content.xumo.com/275/content/XM0HV22EDDI0JK/19323518/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",History (Xumo TV)
+https://live-content.xumo.com/219/content/XM0JC0DJCZFMI8/18049519/master.m3u8
 
