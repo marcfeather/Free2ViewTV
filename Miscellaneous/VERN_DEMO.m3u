@@ -350,7 +350,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://live.freenews.live/stream/msnbc2/playlist.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -657,9 +657,13 @@ http://190.80.3.28/PBS/PBS.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",MSNBC-1
 https://1886592016.rsc.cdn77.org/1dqnO6ghMkgiHrUc8gg9QA==,1576549540/LS-ATL-54548-15/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",MSNBC-2
-https://1886592016.rsc.cdn77.org/3Ug37YxEbFjF1x0jFhp6oA==,1576548010/LS-ATL-54548-15/index.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",MSNBC-3
+https://live.freenews.live/stream/msnbc2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",CNBC-1
 https://1674331492.rsc.cdn77.org/SjtJbxmFTcQCx5YisWKMTw==,1576549542/LS-ATL-54548-14/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",CNBC-2
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",CNN-1
 https://1828529515.rsc.cdn77.org/EsGrjM0dqdhsdiKHPdaj0Q==,1576553146/LS-ATL-54548-9/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",HLN-1
