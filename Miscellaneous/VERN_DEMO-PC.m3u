@@ -191,7 +191,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+https://1420543146.rsc.cdn77.org/J1O0BjQYUcQwg7OSDlcO0Q==,1576547404/LS-ATL-54548-10/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -495,30 +495,24 @@ http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" group-title="USA FREE OTA TV",PBS-TV
 http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-1
-https://1161275585.rsc.cdn77.org/ls-54548-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-2
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-1
-https://1161275585.rsc.cdn77.org/ls-54548-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-2
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-3
-https://live.freenews.live/stream/fox/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",HLN-1
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",HLN-2
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNBC-1
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-1
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-10/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-2
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-3
-https://1161275585.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-4
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",MSNBC-1
+https://1886592016.rsc.cdn77.org/1dqnO6ghMkgiHrUc8gg9QA==,1576549540/LS-ATL-54548-15/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",MSNBC-2
+https://1886592016.rsc.cdn77.org/3Ug37YxEbFjF1x0jFhp6oA==,1576548010/LS-ATL-54548-15/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",CNBC-1
+https://1674331492.rsc.cdn77.org/SjtJbxmFTcQCx5YisWKMTw==,1576549542/LS-ATL-54548-14/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",CNN-1
+https://1828529515.rsc.cdn77.org/EsGrjM0dqdhsdiKHPdaj0Q==,1576553146/LS-ATL-54548-9/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",HLN-1
+https://1161275585.rsc.cdn77.org/cj_H54B_Y6pD1RfiaiOphQ==,1576550144/LS-ATL-54548-7/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",Bloomberg
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",Fox-News-1
+https://1028107998.rsc.cdn77.org/MA5F9JJyKQv-H8LaByg65w==,1576549543/ls-54548-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",Fox-Business-1
+https://1329918864.rsc.cdn77.org/fHGXG2fR_o9NUxtJnFUohw==,1576550145/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LiveNewsWatch_220x220.png?raw=true" group-title="Live News Watch",CBC-News-1
+https://1359547862.rsc.cdn77.org/WbrU30eYScl0gc7xdndXMg==,1576552824/LS-ATL-54548-8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" group-title="International TV",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
@@ -804,10 +798,27 @@ http://live.savitar.tv/AE/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAv
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",AMC (USTVGO)
 http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo1Njo1MiBQTSZoYXNoX3ZhbHVlPWh5bW8yL0dzOGtYUjlBTlJxaUFKdnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
 
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (USTVGO)
-https://peer3.ustv.to/Travel/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE5IDEyOjMzOjU2IEFNJmhhc2hfdmFsdWU9MEZuaGZYL3FLY043dmJCTnBZcUNtdz09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (InkMedia)
+http://fadev.club/live/TravelChannel.m3u8
+
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",MSNBC (InkMedia)
+http://live.fadev.club/edge/MSNBC/playlist.m3u8
 
 
-http://peer4.savitar.tv/Travel/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDE5IDEyOjMzOjU2IEFNJmhhc2hfdmFsdWU9MEZuaGZYL3FLY043dmJCTnBZcUNtdz09JnZhbGlkbWludXRlcz0zNjAmc3RybV9sZW49MA==
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",The Asylum (TuboxTV)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Food52 (TuboxTV)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",The Asylum (Xumo TV)
+https://live-content.xumo.com/275/content/XM0HV22EDDI0JK/19323518/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",History (Xumo TV)
+https://live-content.xumo.com/219/content/XM0JC0DJCZFMI8/18049519/master.m3u8
 
