@@ -816,9 +816,9 @@ http://206.190.133.196:7161/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR WRCW Radio - GUNSMOKE
 http://107.181.227.250:8166/stream
 
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Free2View TV!
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",UPDATED Free2View TV!
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_billboard-v3.mp4?raw=true
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Buy Me A Coffee?
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",UPDATED Buy Me A Coffee?
 https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoffee_billboard-v2.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Skyline Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
