@@ -162,6 +162,7 @@
 # Update: 12/20/19  - RETURNING CHANNELS: Muted sound from Olympic Channel sub-channels seems resolved, re-added as Category.
 # Update: 12/20/19  - SITE NEWS: New blog: *** UPDATE YOUR BOOKMARKS!!!! *** https://thefrugalstreamer.blogspot.com/
 # Update: 12/20/19  - SITE NEWS: new email address: Free2ViewTVCanada@gmail.com - billboard videos updated in ABOUT US + EXTRAS.
+# Update: 12/22/19  - NEW OLD TIME RADIO CHANNELS ADDED: The Yesterday USA Radio Networks added.
 #
 # ************************************************************************************************************************************* 
 
@@ -237,7 +238,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://central.dashstreams.net/onestudio/newsnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (HD)
 https://bozztv.com/36bay2/gin-newsnet/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 1)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 2)
@@ -815,11 +815,15 @@ http://209.95.56.101:8000/listen
 http://206.190.133.196:7161/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR WRCW Radio - GUNSMOKE
 http://107.181.227.250:8166/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR Yesterday USA Red
+http://streaming.radio.co/sf5708c004/listen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR Yesterday USA Blue
+http://streaming.radio.co/sa37b728bf/listen
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",UPDATED Free2View TV!
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_billboard-v3.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_billboard-v4.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",UPDATED Buy Me A Coffee?
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoffee_billboard-v2.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoffee_billboard-v3.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Skyline Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
