@@ -1013,3 +1013,135 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_500000
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Filmrise Movies (Roku)
 https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
 
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",ABC News Live (Roku)
+https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Movies (Roku)
+https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Weather Nation (Roku)
+https://manifest.auditude.com/auditude/variant/weathernation_1/aHR0cHM6Ly93ZWF0aGVybmF0aW9udHYucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=347;distributor=roku;ip=45.55.90.210;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=a73f5bd5bf34256642f366ab424b87fece4525ae;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl494360450
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Stadium (Roku)
+https://manifest.auditude.com/auditude/variant/stadium_gracenote/aHR0cHM6Ly9zdGFkaXVtLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=160;distributor=roku;ip=45.55.90.210;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=0fd3b8ce82cdf97b08d719cea54493861e78f5ff;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl447999753
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",NewsMax (Roku)
+https://nmxlivessai.akamaized.net/amagi_hls_data_newsmaxAA-newsmax/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",USA Today (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999428/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",This Old House (Roku)
+https://manifest.auditude.com/auditude/variant/thisoldhouse_2/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=318;distributor=roku;ip=45.55.90.210;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=f333ac78e5d3eb68e0244242e1414e6de85159aa;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl784053883
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",TMZ (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999243/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The Asylum (Roku)
+https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Classic TV (Roku)
+https://dai1.xumo.com/9fe012a9926c4e91/9999400/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Bein Sports Xtra (Roku)
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Dust (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Fail Army (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999153/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Wipeout Xtra (Roku)
+https://manifest.auditude.com/auditude/variant/endemol_wipeoutxtra_1/aHR0cHM6Ly9lbmRlbW9sLXdpcGVvdXR4dHJhLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=320;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=933af87470350d29fbc6e18be1f62e35b81713a8;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl297376336
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",People TV (Roku)
+https://peopletv-thunderstorm.amagi.com/amagi_hls_data_peopletvA-peopletvtrc/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Newsy (Roku)
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8?ad=therokuchannel&rays=efghdc
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Food52 (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999405/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",TYT (Roku)
+https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Design Network (Roku)
+https://manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/aHR0cHM6Ly90aGVkZXNpZ25uZXR3b3JrLXRkbi0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=323;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=beeb49adcb5befb8c8152ed45d2a9168befd641c;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl986948470
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Family (Roku)
+https://dai1.xumo.com/9fe012a9926c4e91/9999402/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Yahoo! (Roku)
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Just For Laughs Gags (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999436/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Outside TV (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999407/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The AFV Family Channel (Roku)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?ads.rdid=23c5e6f8-0545-5809-ad40-07896803b3e1&ads.coppa=false&ads.is_lat=1&ads.genre=&ads.platform=ROKU_PLATFORM_TYPE&ads.content_type=&ads.content_rating=&ads.pod_ads=10
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The Forensic Files 24/7 (Roku)
+https://dai1.xumo.com/9fe012a9926c4e91/9999431/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",People Are Awesome (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999175/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Fubo Sports Network (Roku)
+https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/roku/master.m3u8?ads.partner=roku
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Sci-Fi (Roku)
+https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Now This (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999427/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Unsolved Mysteries 24/7 (Roku)
+https://dai1.xumo.com/9fe012a9926c4e91/9999401/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The Pet Collective (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999416/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Comedy Dynamics (Roku)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamicsroku/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",eSports Television (Roku)
+https://estv-manifest.akamaized.net/amagi_hls_data_estvAAAAA-estv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Nosey (Roku)
+https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=319;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=341083177c1ec701eae49422b72f119a7946d49d;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl253276323
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",TasteMade (Roku)
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",CombatGo (Roku)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoroku/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Reel Truth Crime (Roku)
+https://manifest.auditude.com/auditude/variant/endemol_reeltruthcrime_1/aHR0cHM6Ly9lbmRlbW9sLXJlZWx0cnV0aGNyaW1lLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=322;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=88075ca725ec86996b7920c626301b4f888cd13c;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl875580279
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Restore (Roku)
+https://manifest.auditude.com/auditude/variant/endemol_restore_1/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=321;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=8b3f8df64de23ce31890645b3b0d576fd7835773;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl791366672
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Funny Or Die
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999434/master.m3u8
+
+
+
+
+
+
