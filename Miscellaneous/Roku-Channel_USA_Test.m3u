@@ -114,17 +114,56 @@ https://manifest.auditude.com/auditude/variant/endemol_reeltruthcrime_1/aHR0cHM6
 Restore (Roku)
 https://manifest.auditude.com/auditude/variant/endemol_restore_1/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=321;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=8b3f8df64de23ce31890645b3b0d576fd7835773;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl791366672
 
-Funny Or Die
+Funny Or Die (Roku)
 https://dai1.xumo.com/8d9puiojemjm1t9c/9999434/master.m3u8
 
+Cheddar News (Roku)
+https://manifest.auditude.com/auditude/variant/Cheddar/aHR0cHM6Ly9jaGVkZGFyLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=172;distributor=roku;ip=162.243.163.35;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=fed72469046f99b1fcec4637e6da093d53609511;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl650283210
 
+ACC Digital Network (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999421/master.m3u8
 
+EDGESport (Roku)
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
+Adventure Sports Network (Roku)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playlist.m3u8?p=roku&rdid=23c5e6f8-0545-5809-ad40-07896803b3e1&coppa=false&is_lat=1&content=2ad5d4578a963f74c8294e452271a3d273861739&genre=&platform=web&content_type=livefeed&content_rating=&channel_id=123456789
 
+Hell's Kitchen 24x7 (Roku)
+https://dai1.xumo.com/9fe012a9926c4e91/9999403/master.m3u8
 
+MGM Sci-Fi (Roku)
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
 
+Filmrise Free Movies (Roku)
+https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
 
+Real Nosey (Roku)
+https://manifest.auditude.com/auditude/variant/nosey_realnosey_1/aHR0cHM6Ly9ub3NleS1yZWFsbm9zZXktMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=349;distributor=roku;ip=162.243.163.35;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=31438222be16e6045eb4fe110669066ea8f29a83;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl85464740
 
+College Humor (Roku)
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999433/master.m3u8
+
+Kid Gamer TV (Roku)
+https://studio71-ssai.akamaized.net/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
+
+pocket.watch (Kids) (Roku)
+https://manifest.auditude.com/auditude/variant/pocketwatch/aHR0cHM6Ly9wb2NrZXR3YXRjaC5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=272;distributor=roku;ip=104.131.94.117;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=true;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=70248e9e0b22dbcc3d7e52a98783d9f3cd47e235;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl42984705
+
+Battery Pop (Kids) (Roku)
+https://dai1.xumo.com/471e2e158988464c/9999417/master.m3u8 
+
+Ameba (Kids) (Roku)
+https://dai1.xumo.com/471e2e158988464c/9999418/master.m3u8
+
+Kid Genius (Roku)
+https://dai1.xumo.com/471e2e158988464c/9999419/master.m3u8
+
+Moonbug Kids (Roku)
+https://manifest.auditude.com/auditude/variant/moonbug_samsung/aHR0cHM6Ly9tb29uYnVnLXNhbXN1bmcucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=225;distributor=roku;ip=104.131.94.117;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=true;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=3921d61f24567d42d3b553f73741eacb517c1e93;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl718782722
+
+Complex
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999408/master.m3u8
 
 
 
