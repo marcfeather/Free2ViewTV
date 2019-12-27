@@ -12,6 +12,7 @@
 # Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
 # Distro TV: https://www.distro.tv/ (channels in playlist designated with *)
 # Bumblebee TV: https://www.bumblebee.tv/
+# Channels Powered By Xumo: The Asylum Movie Channel; The FilmRise Group.
 #
 # Changelog (News and Updates):
 # For complete changelog, go here: https://publicdomainradio.blogspot.com/p/free2view-tv-changelog-and-extras.html
@@ -207,19 +208,19 @@ https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MGM-Sci-Fi_203x203.png?raw=true" group-title="Movies Plus",MGM Sci-Fi Channel
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_TheAsylum_330x330.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
 https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now *
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective *
 https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_FilmRise-Free-Movies_300x300.png?raw=true" group-title="Movies Plus",Filmrise Movies
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="Movies Plus",Filmrise Movies
 https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_FilmRise-Classic-TV_300x300.png?raw=true" group-title="Movies Plus",Filmrise Classic TV
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="Movies Plus",Filmrise Classic TV
 https://dai1.xumo.com/9fe012a9926c4e91/9999400/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_FilmRise-Family_300x300.png?raw=true" group-title="Movies Plus",Filmrise Family
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Family_355x355.png?raw=true" group-title="Movies Plus",Filmrise Family
 https://dai1.xumo.com/9fe012a9926c4e91/9999402/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_FilmRise-Sci-Fi_355x355.png?raw=true" group-title="Movies Plus",Filmrise Sci-Fi
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" group-title="Movies Plus",Filmrise Sci-Fi
 https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Nostalgia Flicks",247 Retro TV (Sc.1)
