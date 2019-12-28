@@ -1,17 +1,52 @@
-Free2View TV - Changelog and Info 
-
-The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Vintage Entertainment Connection
-https://publicdomainradio.blogspot.com/p/blog-page.html
-
+# ************************************************************************************************************************************* 
+#
+# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Frugal Streamer
+# https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
+#
 # Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
-links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
-guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
+# links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
+# guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
+# Channel list begins after the Changelog in this document.
+#
 # Some sources used for this list: 
 # Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
-# Distro TV: https://www.distro.tv/ designated on some channels as (DTV).
-
+# Distro TV: https://www.distro.tv/ (channels in playlist designated with *)
+# Bumblebee TV: https://www.bumblebee.tv/
+# Channels Powered By Xumo: The Asylum Movie Channel; The FilmRise Group.
+#
+# Download the complete Changelog (News and Updates):
+# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
+#
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
-
+#
+# Update: 12/27/19  - CHANNEL MAINTENANCE: Cleaned up the Olympics Channel and deleted dead channels. Added CBS News Minnesota.
+# Update: 12/27/19  - CHANNEL MAINTENANCE: Film Detective, Electric Now movie channels: new sources added into Movies Plus category.
+# Update: 12/27/19  - NEW CHANNELS ADDED: Movies Plus category and new channels MGM Sci-fi, The Asylum, and FilmRise channels.
+# Update: 12/26/19  - CATEGORY MAINTENANCE: Renamed NOSTALGIA TV + MOVIES to NOSTALGIA FLICKS to make way for new MOVIES category.
+# Update: 12/22/19  - NEW OLD TIME RADIO CHANNELS ADDED: The Yesterday USA Radio Networks added.
+# Update: 12/20/19  - CATEGORY MAINTENANCE: Removed LIVE NEWS WATCH category until new Live News feeds can be located.
+# Update: 12/20/19  - RETURNING CHANNELS: Muted sound from Olympic Channel sub-channels seems resolved, re-added as Category.
+# Update: 12/20/19  - SITE NEWS: New blog: *** UPDATE YOUR BOOKMARKS!!!! *** https://thefrugalstreamer.blogspot.com/
+# Update: 12/20/19  - SITE NEWS: new email address: Free2ViewTVCanada@gmail.com - billboard videos updated in ABOUT US + EXTRAS.
+# Update: 12/19/19  - INFO: Tested Geo-locked channels: CBC Canada appears to be available without geographical restrictions...?
+# Update: 12/19/19  - CATEGORY MAINTENANCE: Canadian TV: Updated streams for NTV Newfoundland; added two Faith-based channels.
+# Update: 12/18/19  - Moved Bloomberg channels from INT'L category to its own BLOOMBERG LIVE with additional Bloomberg streams.
+# Update: 12/17/19  - INFO: news channels in LIVE NEWS WATCH have died (tokened), searching for replacements live streams.
+# Update: 12/16/19  - MAINTENANCE: old LIVE NEWS channels died, replaced with news feeds from LIVE NEWS WATCH and renamed category.
+# Update: 12/14/19  - NEW CHANNELS ADDED: in USA FREE OTA TV category, channels from Victor Valley CA and Cozi TV (West Virginia).
+# Update: 12/14/19  - NEW CATEGORY AND CHANNELS ADDED: from Bumblebee.tv, a free live streaming service with a few channels to start.
+# Update: 12/13/19  - CHANNEL MAINTENANCE: Updated live stream link for NHK World Japan and some channels in USA FREE OTA TV.
+# Update: 12/10/19  - NEW PLUTO TV CHRISTMAS CHANNELS: Added MTV Mistle YO! and VEVO Holiday. Special Pluto Christmas logo, too!
+# Update: 11/27/19  - UPDATED RADIO CHANNELS: Completely overhauled Radio channels and categories. Fixed broken / new streams added.
+# Update: 11/26/19  - MAINTENANCE: Deleted Multi Res. Feeds category since individual MASTER links usually auto-adjusts resolutions.
+# Update: 11/26/19  - RADIO: Re-organizing the LIVE RADIO categories: Removed Fox News Radio (dead link); added new radio/audio feeds.
+# Update: 11/26/19  - UPDATED CATEGORIES: RADIO (HLS) for IPTV; and RADIO (VLC) will NOT work on IPTV, needs external or VLC player.
+# Update: 11/26/19  - (continued) deleted OTR On-Demand category (for now, just don't have enough media for this category.)
+# Update: 11/26/19  - (continued) added additional CBC Canada radio feeds from the west coast; relocated RADIO's to end of list.
+# Update: 11/25/19  - PLAYLIST MAINTENANCE: Updated logos for Fashion TV; CBS News link updated.
+# Update: 11/24/19  - NEW PLUTO TV CHANNELS ADDED: 917 monstercat TV (Pluto+ Category).
+# Update: 11/24/19  - NEW CHANNELS ADDED: By request, three Fashion TV / FTV channels added in the International TV category.
+# Update: 11/22/19  - DOCUMENT MAINTENANCE: Corrected formatting of playlist to accommodate LG TV apps (thanks for the heads up HL!)
 # Update: 11/21/19  - CHANNEL MAINTENANCE: Updated live stream links in the Nostalgia TV + Movies category.
 # Update: 11/21/19  - NEW CHANNELS: Added "It's At The Movies" (Nostalgia TV + Movies); added additional locals (USA FREE OTA TV)
 # Update: 11/19/19  - CHANNEL MAINTENANCE: Removed the dead HBO channels from the International Channels category.
@@ -26,26 +61,28 @@ guarantee that these links will remain stable or active and any dead links could
 # Update: 11/08/19  - NEW CHANNELS ADDED: ** I am excited to add new channels from the free internet TV service STIRR !! **
 # Update: 11/05/19  - CHANNEL MAINTENANCE: Removed The Country Network (the public feed died since going behind a pay-wall).
 # Update: 11/04/19  - NEW CHANNEL ADDED: The Weather Network and The Knowledge Network have been added to Canadian TV category.
-# (NOTE: The Weather Network may only be live during "weather events" and does not appear to be 24/7.)
-# Update: 11/04/19  - CHANNEL MAINTENANCE: Updated CBS News NY live link. 
+#                     (NOTE: The Weather Network may only be live during "weather events" and does not appear to be 24/7.)
 # Update: 11/02/19  - NEW SEASONAL CHANNELS ADDED: 4 new Pluto TV Seasonals added to Christmas Coll. and Pluto TV (3) Pluto+*
-# * all four channels will be added as soon as I can get individual SID codes to avoid stream conflicts :-)
+#                     * all four channels will be added as soon as I can get individual SID codes to avoid stream conflicts :-)
 # Update: 11/01/19  - UPDATES: Removed "Top 5" Category at end of playlist, replaced it with a NEW "Christmas Collection" category.
 # Update: 10/30/19  - PLAYLIST MAINTENANCE: Completed file transfers to new servers, all F2V-TV video extras working now.
 # Update: 10/30/19  - NEW CHANNELS ADDED: Added VSiN (Sports Betting) in Sports category.
 # Update: 10/28/19  - MAJOR UPDATE: Internet Archive, where my files are stored, locked out files due to high bandwidth usage...
-# ... relocated playlists, logo files, and (soon) extra materials to a new set of servers. This update:
-# ... complete update of remote links and logos, and new name of playlists for 2020. More tweaks to follow.
+#                     ... relocated playlists, logo files, and (soon) extra materials to a new set of servers. This update:
+#                     ... complete update of remote links and logos, and new name of playlists for 2020. More tweaks to follow.
 # Update: 10/25/19  - NEW CHANNELS ADDED: 70 Pluto TV Terror ("Pluto TV (2) Movies").
 # Update: 10/24/19  - PLAYLIST MAINTENANCE: Renamed USA (OTT) 1 to USA FREE OTA TV.
-# Update: 10/21/19  - PLAYLIST MAINTENANCE: Re-organized Pluto TV categories with additional streams. # Update: 10/20/19  - CHANNEL MAINTENANCE: Removed dead channels, POP and Global TV (Canada); still searching for working sources.
+# Update: 10/21/19  - PLAYLIST MAINTENANCE: Re-organized Pluto TV categories with additional streams. 
+# Update: 10/20/19  - CHANNEL MAINTENANCE: Removed dead channels, POP and Global TV (Canada); still searching for working sources.
 # Update: 10/17/19  - NEW CHANNEL ADDED: Miami TV, Travel & Tourism category; A3 Bikini in Special Interest category. (Both 18+)
-# Update: 10/17/19  - MAINTENANCE: Pluto TV list is growing! I divided it into 3 new Pluto TV groups and reorganized channels. # Update: 10/14/19  - NEW VIDEOS ADDED: OTR On Demand catg. with a new vid; and Roku Screensavers vids in About Us + Extras.
+# Update: 10/17/19  - MAINTENANCE: Pluto TV list is growing! I divided it into 3 new Pluto TV groups and reorganized channels. 
+# Update: 10/14/19  - NEW VIDEOS ADDED: OTR On Demand catg. with a new vid; and Roku Screensavers vids in About Us + Extras.
 # Update: 10/14/19  - CHANNEL MAINTENANCE: NASA TV's "iphone" HLS sources have died, replaced with a working source.
 # Update: 10/07/19  - MAINTENANCE: Pop TV, Global TV CA channels died, placeholders added until replacement sources are found.
 # Update: 10/07/19  - NEW CATEGORY: Nostalgia TV + Movies: re-organized some current channels and added some new channels here.
 # Update: 10/07/19  - NEW PLUTO TV CHANNELS ADDED: added Pluto TV Movies; Criss Angel Mindfreak; Addams Family 24/7.
-# Update: 10/06/19  - CHANNEL MAINTENANCE: Replaced dead Live News links: https://1674331492.rsc.cdn77.org source URL died. # Update: 10/01/19  - NEW CHANNEL ADDED: Renamed LAW & CRIME category to LAW + JUSTICE and added Court TV live stream.
+# Update: 10/06/19  - CHANNEL MAINTENANCE: Replaced dead Live News links: https://1674331492.rsc.cdn77.org source URL died. 
+# Update: 10/01/19  - NEW CHANNEL ADDED: Renamed LAW & CRIME category to LAW + JUSTICE and added Court TV live stream.
 # Update: 9/30/2019 - NEW CHANNELS ADDED: Added new CBS News Boston in CBS interactive category, as well as Dabl.
 # Update: 9/29/2019 - MONITORING: Canadian Global TV channels stopped working, may now be behind cable login wall. Investigating.
 # Update: 9/28/2019 - NEW CHANNELS ADDED: Added the three Cinedigm Digital Cinema live streams: Dove Channel, CONtv, Docurama.
@@ -58,13 +95,13 @@ guarantee that these links will remain stable or active and any dead links could
 # Update: 9/18/2019 - NEW CHANNELS ADDED: This Old House 24/7, Pluto TV Sports, Pluto TV Family channels to Pluto TV category.
 # Update: 9/18/2019 - CHANNEL MAINTENANCE: Updated Pluto TV URLs eliminating duplicate SID's that may cause live stream conflicts.
 # Update: 9/18/2019 - CHANNEL MAINTENANCE: Giniko TV category deleted: the network is online at http://www.giniko.com and ...
-... https://ginikousa.com, but programming is sub-par quality and way TOO MANY REPEATED videos. ...
-... However, I have moved several quality channels to the Special Interest category (music, crafts, etc). 
+                      ... https://ginikousa.com, but programming is sub-par quality and way TOO MANY REPEATED videos. ...
+                      ... However, I have moved several quality channels to the Special Interest category (music, crafts, etc). 
 # Update: 9/18/2019 - CHANNEL MAINTENANCE: My TV To Go category deleted: this network is till available online if you want to ...
-... watch these channels, but I found them to provide low quality programming and not very popular for ...
-... this playlist. Classic Arts Showcase is a popular feed, so I have moved it to Entertainment category ...
-... using an original source feed. Also, Weather4U is simply a duplicate of Weather Channel and NewsNet ...
-... is already included in other categories of this playlist. Watch the network online: https://mytvtogo.net
+                      ... watch these channels, but I found them to provide low quality programming and not very popular for ...
+                      ... this playlist. Classic Arts Showcase is a popular feed, so I have moved it to Entertainment category ...
+                      ... using an original source feed. Also, Weather4U is simply a duplicate of Weather Channel and NewsNet ...
+                      ... is already included in other categories of this playlist. Watch the network online: https://mytvtogo.net
 # Update: 9/16/2019 - NEW CHANNELS ADDED: Bloomberg US and EU live feeds added to International Channels (user requested).
 # Update: 9/16/2019 - NEW CHANNELS ADDED: Russia Today News, America, and UK added to International Channels (user requested).
 # Update: 9/16/2019 - NEW CHANNELS ADDED: Cheddar and Cheddar Big News have been added to the News & Weather category.
@@ -74,7 +111,7 @@ guarantee that these links will remain stable or active and any dead links could
 # Update: 9/15/2019 - CHANNEL MAINTENANCE: removed Food TV (UK) from International (this was not evidently from UK, and bad stream)
 # Update: 9/15/2019 - MAINTENANCE: Cleaned up some Category Names (removed "OTA" from the names); renamed USA TEST NEWS to LIVE NEWS.
 # Update: 9/15/2019 - Playlist News: To maintain the mandate of "Free and Public" live-streams, USA TEST Channels will all be ...
-... eventually removed and replaced by free antenna translator retransmissions. Those changes begins today.
+                      ... eventually removed and replaced by free antenna translator retransmissions. Those changes begins today.
 # Update: 9/13/2019 - MAINTENANCE & NEW CHANNELS: Reorganized Sports channels in its own category; added 3 more Sports (OTA) channels.
 # Update: 9/09/2019 - MAINTENANCE: Cleaned up some Pluto TV channel URL's. 
 # Update: 9/07/2019 - MAINTENANCE: Jasmin TV proved to buffer too much testing all of the available links. Removed from playlist.
@@ -88,7 +125,7 @@ guarantee that these links will remain stable or active and any dead links could
 # Update: 8/30/2019 - PLAYLIST NEWS: Stirr TV's source URLs have session keys; won't work. Pluto TV source URL's appear promising.
 # Update: 8/30/2019 - PLAYLIST NEWS: testing out channel links from Pluto TV and Stirr TV, two popular free Over-The-Top services.
 # Update: 8/30/2019 - PLAYLIST NEWS: seems like NASA ISS 1 feed may be not be around much longer, it has reached an "End of Life"...
-... see: https://en.wikipedia.org/wiki/High_Definition_Earth_Viewing_cameras; will keep as long as possible.
+                      ... see: https://en.wikipedia.org/wiki/High_Definition_Earth_Viewing_cameras; will keep as long as possible.
 # Update: 8/29/2019 - NEW CHANNELS: added Mobcrush (Video Games) [Special Interest]; The Film Detective [Entertainment].
 # Update: 8/29/2019 - MAINTENANCE: moved mult-resolution channels into its own category; added duplicate channels with add'l res's.
 # Update: 8/29/2019 - MAINTENANCE: did minor sorting of some channels in the Special Interest category.
@@ -96,12 +133,12 @@ guarantee that these links will remain stable or active and any dead links could
 # Update: 8/23/2019 - NEW CHANNELS: added add'l channels- My TV To Go Networks category: Classic Arts, Weather 4U, Living Outdoors.
 # Update: 8/23/2019 - Maintenance: removed ABC News (main feed) and France 24 from respective categories (see previous Playlist News).
 # Update: 8/23/2019 - Playlist News: re- Olympic Channel subchannels 2-12: unable to get sound codec working, though it works on...
-... their web-stream, still investigating options. For now, the channel's main feed moved to Special Interest.
+                      ... their web-stream, still investigating options. For now, the channel's main feed moved to Special Interest.
 # Update: 8/23/2019 - Maintenance: located/updated additional feeds from old lists for France 24; no ABC News Live yet, still on it!
 # Update: 8/23/2019 - Playlist News: The links for the 24/7 news France 24 and main feed of ABC News Live appear to have become...
-... discontinued. Their new live feeds appear to be locked behind session tokens, which are not stable here. :-(
+                      ... discontinued. Their new live feeds appear to be locked behind session tokens, which are not stable here. :-(
 # Update: 8/23/2019 - Maintenance: cleaned up Giniko TV category, replaced some dead links and added additional new ones. ...
-... a LOT of repeated programming on many, still reviewing if they will remain permanent in this list.
+                      ... a LOT of repeated programming on many, still reviewing if they will remain permanent in this list.
 # Update: 8/18/2019 - NEW CHANNELS: Giniko USA TV (G-USA) and Giniko Worldwide TV (G-W)! More will be added soon!
 # Update: 8/18/2019 - Maintenance: Reorganized categories; updated additional changed URL's for My TV To Go Networks.
 # Update: 8/16/2019 - Maintenance: updated remaining changed URL's for My TV To Go Networks; added Wink TV in My TV To Go Networks.
@@ -139,10 +176,10 @@ guarantee that these links will remain stable or active and any dead links could
 # Update: 6/21/2019 - Moved some channels from IP 170.250.96.20 into category Testing (TT) (as above, went dead about a week ago.)
 # Update: 6/21/2019 - Moved some channels from IP 161.0.157.XX into category Testing (TT) (these channels went dead about a week ago.)
 # Update: 6/19/2019 - renamed and re-ordered categories: renamed Over The Air (OTA) & Web Streams to other categories including ...
-... Entertainment (OTA); News & Weather (OTA); Special Interest (OTA) including Sports and other interests ...
-... My TV To Go Networks; Canadian TV; USA Channels; UK Channels; International TV ...
-... Live Radio (compatible with IPTV apps); Old Time Radio (best using VLC media player) ...
-... and always testing new channels and categories, which are always subject to discontinuation at any time.
+                      ... Entertainment (OTA); News & Weather (OTA); Special Interest (OTA) including Sports and other interests ...
+                      ... My TV To Go Networks; Canadian TV; USA Channels; UK Channels; International TV ...
+                      ... Live Radio (compatible with IPTV apps); Old Time Radio (best using VLC media player) ...
+                      ... and always testing new channels and categories, which are always subject to discontinuation at any time.
 # Update: 6/19/2019 - added NewsMax TV in OTA & Web Streams category. Updated Top 5 category.
 # Update: 6/19/2019 - added Folk TV, a classic TV channel sourced from an unscrambled web-stream dated as far back as 12/6/2018.
 # Update: 6/19/2019 - added Pop Channel, sourced from an unscrambled web-stream dated as far back as March 2017.
@@ -150,8 +187,8 @@ guarantee that these links will remain stable or active and any dead links could
 # Update: 6/19/2019 - added Cartoons 4U, Kartoon Fun Time, and Sci-Fi 4U in Vintage TV & Movies category.
 # Update: 6/19/2019 - removed dead link: Flashback TV from Vintage TV & Movies category appears to have become a scrambled url.
 # Update: 6/19/2019 - MAJOR UPDATE! Added new Category: USA TEST (MT), with unscrambled US TV links from IP 23.237.22.82 ...
-... this was originally sourced from a January 2018 playlist whose links were inactive for a while. They're back!
-... Appears to be from Cogent Communications out of Denver CO. Western feeds. Enjoy them while we have them! 
+                      ... this was originally sourced from a January 2018 playlist whose links were inactive for a while. They're back!
+                      ... Appears to be from Cogent Communications out of Denver CO. Western feeds. Enjoy them while we have them! 
 # Update: 6/19/2019 - removed dead links: from URL domain http://espn.tmedia.me (may be temporary, will revisit these links later)
 # Update: 6/19/2019 - removed dead links: sports channels from 185.246.209.106 IP address in the Testing 2 category. Dead 30+ days.
 # Update: 5/23/2019 - added new Music channel, Magic TV, in International Channels.
