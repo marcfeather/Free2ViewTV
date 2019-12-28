@@ -1,7 +1,7 @@
 # ************************************************************************************************************************************* 
 #
-# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Vintage Entertainment Connection
-# https://publicdomainradio.blogspot.com/p/blog-page.html
+# The Free2View Master Playlist Project! A Free and Legal IPTV List curated by The Frugal Streamer
+# https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
 #
 # Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
 # links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
@@ -10,11 +10,12 @@
 #
 # Some sources used for this list: 
 # Giniko TV: https://www.ginikousa.com/index.php and http://www.giniko.com/
-# Distro TV: https://www.distro.tv/ designated on some channels as (DTV).
-# Some Live News feeds from: https://freenews.live/live/
+# Distro TV: https://www.distro.tv/ (channels in playlist designated with *)
+# Bumblebee TV: https://www.bumblebee.tv/
+# Channels Powered By Xumo: The Asylum Movie Channel; The FilmRise Group.
 #
-# Changelog (News and Updates):
-# For complete changelog, go here: https://publicdomainradio.blogspot.com/p/free2view-tv-changelog-and-extras.html
+# Download the complete Changelog (News and Updates):
+# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
 #
 # Update: 7/01/2019 - replaced dead link for "Eagle Cam (Hanover PA) (Live Cam)"; replaced ICI Tele (Montreal) in "Canadian TV".
 # Update: 7/01/2019 - removed all UK channels (dead links since mid-June), except Food Channel UK: moved to International Channels.
@@ -162,6 +163,11 @@
 # Update: 12/20/19  - RETURNING CHANNELS: Muted sound from Olympic Channel sub-channels seems resolved, re-added as Category.
 # Update: 12/20/19  - SITE NEWS: New blog: *** UPDATE YOUR BOOKMARKS!!!! *** https://thefrugalstreamer.blogspot.com/
 # Update: 12/20/19  - SITE NEWS: new email address: Free2ViewTVCanada@gmail.com - billboard videos updated in ABOUT US + EXTRAS.
+# Update: 12/22/19  - NEW OLD TIME RADIO CHANNELS ADDED: The Yesterday USA Radio Networks added.
+# Update: 12/26/19  - CATEGORY MAINTENANCE: Renamed NOSTALGIA TV + MOVIES to NOSTALGIA FLICKS to make way for new MOVIES category.
+# Update: 12/27/19  - NEW CHANNELS ADDED: Movies Plus category and new channels MGM Sci-fi, The Asylum, and FilmRise channels.
+# Update: 12/27/19  - CHANNEL MAINTENANCE: Film Detective, Electric Now movie channels: new sources added into Movies Plus category.
+# Update: 12/27/19  - CHANNEL MAINTENANCE: Cleaned up the Olympics Channel and deleted dead channels. Added CBS News Minnesota.
 #
 # ************************************************************************************************************************************* 
 
@@ -200,21 +206,38 @@ https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark-M-M_800x800.png?raw=true" group-title="Entertainment",Hallmark Movies & Mysteries
 https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Nostalgia TV + Movies",247 Retro TV (Sc.1)
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MGM-Sci-Fi_203x203.png?raw=true" group-title="Movies Plus",MGM Sci-Fi Channel
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" group-title="Movies Plus",The Asylum Movie Channel
+https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" group-title="Movies Plus",Electric Now *
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" group-title="Movies Plus",The Film Detective *
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" group-title="Movies Plus",Filmrise Movies
+https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" group-title="Movies Plus",Filmrise Classic TV
+https://dai1.xumo.com/9fe012a9926c4e91/9999400/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Family_355x355.png?raw=true" group-title="Movies Plus",Filmrise Family
+https://dai1.xumo.com/9fe012a9926c4e91/9999402/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" group-title="Movies Plus",Filmrise Sci-Fi
+https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Nostalgia Flicks",247 Retro TV (Sc.1)
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1885109332_b1928000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE1NjkyNTkzMzUmd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZ3b3d6YXRva2VuaGFzaD1oNHZVa3kzQ3NsRDV2S2FRdzB2RjlmYkpiUkFtOFp2S0NvNEx1dl9aUFhZPQ==.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Nostalgia TV + Movies",247 Retro TV (Sc.2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" group-title="Nostalgia Flicks",247 Retro TV (Sc.2)
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AmericanHorrors.png" group-title="Nostalgia TV + Movies",American Horrors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AmericanHorrors.png" group-title="Nostalgia Flicks",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_AmClassicNetwork.png" group-title="Nostalgia TV + Movies",American Classic Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_AmClassicNetwork.png" group-title="Nostalgia Flicks",American Classic Network
 https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_ClassicTV4U.png" group-title="Nostalgia TV + Movies",Classic TV 4U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_ClassicTV4U.png" group-title="Nostalgia Flicks",Classic TV 4U
 https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" group-title="Nostalgia TV + Movies",Spydar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" group-title="Nostalgia Flicks",Spydar TV
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png" group-title="Nostalgia TV + Movies",Westerns 4U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png" group-title="Nostalgia Flicks",Westerns 4U
 https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" group-title="Nostalgia TV + Movies",It's At The Movies
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" group-title="Nostalgia Flicks",It's At The Movies
 https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSNews.png" group-title="News & Weather",CBS News
@@ -237,7 +260,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://central.dashstreams.net/onestudio/newsnet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (HD)
 https://bozztv.com/36bay2/gin-newsnet/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 1)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 2)
@@ -322,6 +344,8 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Boston
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Minnesota
+https://dai.google.com/linear/hls/pa/event/zcWPVCfURNSPxeidcckQLA/stream/73f4e03b-f258-4d3e-a4df-29e9007e04e3:CBF2/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News LA
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSInteractive.png" group-title="CBS Interactive",CBSi CBS News Bay Area
@@ -411,10 +435,6 @@ https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
 https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",IOC-5 Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",IOC-E1 IOC Event 1
-https://ott-live.olympicchannel.com/out/u/OC7_2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Olympic Channel",IOC-E2 IOC Event 2
-https://ott-live.olympicchannel.com/out/u/OC8_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCNews.png" group-title="Canadian TV",CBC News Network (Geo)
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
@@ -815,15 +835,20 @@ http://209.95.56.101:8000/listen
 http://206.190.133.196:7161/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR WRCW Radio - GUNSMOKE
 http://107.181.227.250:8166/stream
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR Yesterday USA Red
+http://streaming.radio.co/sf5708c004/listen
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OldTimeRadio.png" group-title="Old Time Radio",OTR Yesterday USA Blue
+http://streaming.radio.co/sa37b728bf/listen
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",UPDATED Free2View TV!
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_billboard-v3.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_billboard-v4.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",UPDATED Buy Me A Coffee?
-https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoffee_billboard-v2.mp4?raw=true
+https://github.com/geonsey/Free2ViewTV/blob/master/videos/Free2ViewTV_BuyMeACoffee_billboard-v3.mp4?raw=true
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Skyline Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/2/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras",Roku Movie Magic Screensaver
 https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
+
 
 
 
