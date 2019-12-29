@@ -19,6 +19,9 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
+# Update: 12/29/19  - CHANNEL MAINTENANCE: Updated Stirr TV channel logo to differentiate from my Stirr TV master playlist...
+#                     ... which you can get from here: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/StirrTV.m3u
+# Update: 12/29/19  - NEW CHANNELS: Added USA FREE OTA TV25 category with 12 OTA's from TV25, KCKS-LD, Kansas City, Kansas, USA.
 # Update: 12/28/19  - CHANNEL MAINTENANCE: Re-added some of the LIVE NEWS channels (CNN, CNBC, FOX News, MSNBC, BBC World News.)
 # Update: 12/27/19  - CHANNEL MAINTENANCE: Cleaned up the Olympics Channel and deleted dead channels. Added CBS News Minnesota.
 # Update: 12/27/19  - CHANNEL MAINTENANCE: Film Detective, Electric Now movie channels: new sources added into Movies Plus category.
