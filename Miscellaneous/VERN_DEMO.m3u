@@ -962,324 +962,121 @@ https://github.com/geonsey/Free2ViewTV/releases/download/1/Roku_City-Stroll_Movi
 
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ABC NEW YORK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1821
+#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NBC DETROT HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1828
+#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CBS NEW YORK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1801
+#EXTINF:-1 tvg-id="CW" tvg-name="CW" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CW HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1793
+#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1775
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",AMC HD US (DEAD)
+https://content.jwplatform.com/videos/Szl4YrLw-CrqR41ri.mp4
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNN HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1819
+#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",MSNBC (Free2View TV)
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| Travel Channel HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1730
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HGTV HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1817
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SYFY HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1735
+
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",BBC World News (Free2View TV)
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1 tvg-id="BET" tvg-name="BET" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BET HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1812
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Bloomberg US Desktop (Free2View TV)
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Bloomberg US Channel (Free2View TV)
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg News" tvg-name="Bloomberg News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BLOOMBERG HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1811
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BOOMERANG HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1810
+#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BRAVO
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1809
+#EXTINF:-1 tvg-id="BTN" tvg-name="BTN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| BTN HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1808
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CINEMAX EAST
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1799
+#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CMT HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1797
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",CNBC (Free2View TV)
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| CNBC HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1796
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOOD NETWORK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1776
+#EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DESTINATION AMERICA
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1792
+#EXTINF:-1 tvg-id="DIY" tvg-name="DIY" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DIY NETWORK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1785
+#EXTINF:-1 tvg-id="SCIENCE" tvg-name="SCIENCE" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY SCIENCE HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1789
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| DISCOVERY CHANNEL HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1791
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ESPN HD US
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1784
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| ESPN 2 US
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1783
+#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOX NEWS
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1774
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FOOD NETWORK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1776
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FX HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1763
+#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| FXX HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1762
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HALLMARK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1758
+#EXTINF:-1 tvg-id="Hallmark" tvg-name="Hallmark" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Channel (Free2View TV)
+https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
+#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Hallmark Movies & Mysteries (Free2View TV)
+https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| HBO HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1755
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NBA TV HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1747
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="National Geographic Wild" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NAT GEO WILD HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1748
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NAT GEO HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1749
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="NFL Network" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| NFL NETWORK HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1726
+#EXTINF:-1 tvg-id="Olympic channel" tvg-name="Olympic Channel" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Olympic Channel USA (Free2View TV)
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 tvg-id="Sundance" tvg-name="Sundance" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SUNDANCE HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1736
+#EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SPIKE HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1738
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-name="SHOWTIME" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| SHOWTIME
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1740
+#EXTINF:0,|USA| TBS HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1816
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TENNIS HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1734
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TLC HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1732
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TNT HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1731
+#EXTINF:-1 tvg-id="TSN 2" tvg-name="TSN 2" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TSN HD 2
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1830
+#EXTINF:-1 tvg-id="TSN 4" tvg-name="TSN 4" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TSN HD 4
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1829
+#EXTINF:-1 tvg-id="TVLAND" tvg-name="TVLAND" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| TV LAND HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1729
+#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| USA NETWORK
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1727
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| VH1 HD
+http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1723
 
-
-
-#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",MSNBC HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/16841
-
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",CNN US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/9029
-
-#EXTINF:-1 tvg-id="Fox News" tvg-name="Fox News" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Fox News
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13100
-
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Travel Channel
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18173
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",AMC HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13104
-
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",A&E HD
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/10350
-
-#EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Destination America
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18189
-
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",ABC
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/9026
-
-#EXTINF:-1 tvg-id="CBS" tvg-name="CBS" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",CBS
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18075
-
-#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",FOX
-http://gotdark.com:80/Gator78/Gator78/43
-
-#EXTINF:-1 tvg-id="Fox Network" tvg-name="Fox Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",FOX
-http://gotdark.com:80/jon/jon123/43
-
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",NBC HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/9009
-
-#EXTINF:-1 tvg-id="USA NETWORK" tvg-name="USA NETWORK" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",USA Network HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13105
-
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Syfy HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13095
-
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",TBS
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13106
-
-#EXTINF:-1 tvg-id="Comet TV" tvg-name="Comet TV" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Comet HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/27469
-
-#EXTINF:-1 tvg-id="COZI TV" tvg-name="COZI TV" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Cozi TV HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/27470
-
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",History HD
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/15712
-
-#EXTINF:-1 tvg-id="Hallmark Movies & Mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Hallmark Movies & Mysteries
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18198
-
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",HGTV
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13835
-
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Food Network
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18191
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",FX
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13098
-
-#EXTINF:-1 tvg-id="FX Movie" tvg-name="FX Movie" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",FX Movie
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18166
-
-#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",FXX
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13097
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",TNT
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/15366
-
-#EXTINF:-1 tvg-id="DIY" tvg-name="DIY" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",DIY
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13101
-
-#EXTINF:-1 tvg-id="GSN" tvg-name="GSN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Game show Network HD
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18069
-
-#EXTINF:-1 tvg-id="TVLAND" tvg-name="TVLAND" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",TV Land
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18171
-
-#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",Tennis Channel HD US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18386
-
-#EXTINF:-1 tvg-id="NHL Network" tvg-name="NHL Network" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",NHL Network US
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/13688
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",ESPN HD
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/9023
-
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",ESPN 2 HD
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/9022
-
-#EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",ESPN NEWS HD
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/19637
-
-#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPNU" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic-TV-2.png",ESPN U HD
-http://cloudcdn.tk:80/Lb61G5y950/6Mqfol6997/18190
-
-
-
-
-
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",A&E (USTVGO)
-http://live.savitar.tv/AE/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAxOSAxMjowNDo1MyBBTSZoYXNoX3ZhbHVlPVJ4dW1XN1BFSm1xbXQrYThKUHN1QlE9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",AMC (USTVGO)
-http://peer4.savitar.tv/AMC/myStream/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxOSAxMTo1Njo1MiBQTSZoYXNoX3ZhbHVlPWh5bW8yL0dzOGtYUjlBTlJxaUFKdnc9PSZ2YWxpZG1pbnV0ZXM9MzYwJmlkPTA=
-
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",Travel Channel (InkMedia)
-http://fadev.club/live/TravelChannel.m3u8
-
-#EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",MSNBC (InkMedia)
-http://live.fadev.club/edge/MSNBC/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",The Asylum (TuboxTV)
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Food52 (TuboxTV)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-Test.png?raw=true" group-title="PRIVATE-2",Filmrise Movies (Roku)
-https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",ABC News Live (Roku)
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Weather Nation (Roku)
-https://manifest.auditude.com/auditude/variant/weathernation_1/aHR0cHM6Ly93ZWF0aGVybmF0aW9udHYucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=347;distributor=roku;ip=45.55.90.210;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=a73f5bd5bf34256642f366ab424b87fece4525ae;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl494360450
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",NewsMax (Roku)
-https://nmxlivessai.akamaized.net/amagi_hls_data_newsmaxAA-newsmax/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Movies (Roku)
-https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",TYT (Roku)
-https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tyt/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Cheddar News (Roku)
-https://manifest.auditude.com/auditude/variant/Cheddar/aHR0cHM6Ly9jaGVkZGFyLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=172;distributor=roku;ip=162.243.163.35;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=fed72469046f99b1fcec4637e6da093d53609511;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl650283210
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",USA Today (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999428/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Newsy (Roku)
-https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8?ad=therokuchannel&rays=efghdc
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Now This (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999427/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Yahoo! (Roku)
-https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Bein Sports Xtra (Roku)
-https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Stadium (Roku)
-https://manifest.auditude.com/auditude/variant/stadium_gracenote/aHR0cHM6Ly9zdGFkaXVtLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=160;distributor=roku;ip=45.55.90.210;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=0fd3b8ce82cdf97b08d719cea54493861e78f5ff;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl447999753
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Fubo Sports Network (Roku)
-https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/roku/master.m3u8?ads.partner=roku
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",ACC Digital Network (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999421/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",EDGESport (Roku)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Adventure Sports Network (Roku)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playlist.m3u8?p=roku&rdid=23c5e6f8-0545-5809-ad40-07896803b3e1&coppa=false&is_lat=1&content=2ad5d4578a963f74c8294e452271a3d273861739&genre=&platform=web&content_type=livefeed&content_rating=&channel_id=123456789
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",CombatGo (Roku)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoroku/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",eSports Television (Roku)
-https://estv-manifest.akamaized.net/amagi_hls_data_estvAAAAA-estv/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Outside TV (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999407/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The Forensic Files 24/7 (Roku)
-https://dai1.xumo.com/9fe012a9926c4e91/9999431/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Reel Truth Crime (Roku)
-https://manifest.auditude.com/auditude/variant/endemol_reeltruthcrime_1/aHR0cHM6Ly9lbmRlbW9sLXJlZWx0cnV0aGNyaW1lLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=322;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=88075ca725ec86996b7920c626301b4f888cd13c;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl875580279
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Unsolved Mysteries 24/7 (Roku)
-https://dai1.xumo.com/9fe012a9926c4e91/9999401/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Design Network (Roku)
-https://manifest.auditude.com/auditude/variant/thedesignnetwork_tdn_2/aHR0cHM6Ly90aGVkZXNpZ25uZXR3b3JrLXRkbi0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=323;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=beeb49adcb5befb8c8152ed45d2a9168befd641c;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl986948470
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",TasteMade (Roku)
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Food52 (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999405/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",This Old House (Roku)
-https://manifest.auditude.com/auditude/variant/thisoldhouse_2/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=318;distributor=roku;ip=45.55.90.210;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=f333ac78e5d3eb68e0244242e1414e6de85159aa;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl784053883
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Restore (Roku)
-https://manifest.auditude.com/auditude/variant/endemol_restore_1/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=321;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=8b3f8df64de23ce31890645b3b0d576fd7835773;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl791366672
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Hell's Kitchen 24/7 (Roku)
-https://dai1.xumo.com/9fe012a9926c4e91/9999403/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",MGM Sci-Fi (Roku)
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The Asylum (Roku)
-https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Dust (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Family (Roku)
-https://dai1.xumo.com/9fe012a9926c4e91/9999402/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Free Movies (Roku)
-https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Classic TV (Roku)
-https://dai1.xumo.com/9fe012a9926c4e91/9999400/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Filmrise Sci-Fi (Roku)
-https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Nosey (Roku)
-https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=319;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=341083177c1ec701eae49422b72f119a7946d49d;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl253276323
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Real Nosey (Roku)
-https://manifest.auditude.com/auditude/variant/nosey_realnosey_1/aHR0cHM6Ly9ub3NleS1yZWFsbm9zZXktMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=349;distributor=roku;ip=162.243.163.35;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=31438222be16e6045eb4fe110669066ea8f29a83;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl85464740
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Funny Or Die
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999434/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Just For Laughs Gags (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999436/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Comedy Dynamics (Roku)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamicsroku/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The AFV Family Channel (Roku)
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?ads.rdid=23c5e6f8-0545-5809-ad40-07896803b3e1&ads.coppa=false&ads.is_lat=1&ads.genre=&ads.platform=ROKU_PLATFORM_TYPE&ads.content_type=&ads.content_rating=&ads.pod_ads=10
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",College Humor (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999433/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",People Are Awesome (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999175/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",TMZ (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999243/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Kid Gamer TV (Roku)
-https://studio71-ssai.akamaized.net/amagi_hls_data_studio71A-studio71roku/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",pocket.watch (Kids) (Roku)
-https://manifest.auditude.com/auditude/variant/pocketwatch/aHR0cHM6Ly9wb2NrZXR3YXRjaC5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg=.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=272;distributor=roku;ip=104.131.94.117;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=true;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=70248e9e0b22dbcc3d7e52a98783d9f3cd47e235;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl42984705
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Battery Pop (Kids) (Roku)
-https://dai1.xumo.com/471e2e158988464c/9999417/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Ameba (Kids) (Roku)
-https://dai1.xumo.com/471e2e158988464c/9999418/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Kid Genius (Roku)
-https://dai1.xumo.com/471e2e158988464c/9999419/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Moonbug Kids (Roku)
-https://manifest.auditude.com/auditude/variant/moonbug_samsung/aHR0cHM6Ly9tb29uYnVnLXNhbXN1bmcucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=225;distributor=roku;ip=104.131.94.117;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=true;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=3921d61f24567d42d3b553f73741eacb517c1e93;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl718782722
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Fail Army (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999153/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",The Pet Collective (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999416/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Wipeout Xtra (Roku)
-https://manifest.auditude.com/auditude/variant/endemol_wipeoutxtra_1/aHR0cHM6Ly9lbmRlbW9sLXdpcGVvdXR4dHJhLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=320;distributor=roku;ip=104.131.94.216;rdid=23c5e6f8-0545-5809-ad40-07896803b3e1;coppa=false;is_lat=1;ua=Mozilla/5.0+(X11;+CrOS+x86_64+12607.58.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/79.0.3945.86+Safari/537.36;content=933af87470350d29fbc6e18be1f62e35b81713a8;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl297376336
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",People TV (Roku)
-https://peopletv-thunderstorm.amagi.com/amagi_hls_data_peopletvA-peopletvtrc/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="The Roku Channel",Complex (Roku)
-https://dai1.xumo.com/8d9puiojemjm1t9c/9999408/master.m3u8
 
 
 
