@@ -172,6 +172,9 @@
 # Update: 12/29/19  - CHANNEL MAINTENANCE: Updated Stirr TV channel logo to differentiate from my Stirr TV master playlist...
 #                     ... which you can get from here: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/StirrTV.m3u
 # Update: 12/29/19  - NEW CHANNELS: Added USA FREE OTA TV25 category with 12 OTA's from TV25, KCKS-LD, Kansas City, Kansas, USA.
+# Update: 1/02/2020 - CHANNEL MAINTENANCE: Added original source feed for NASA's Public live stream, 2 alternates of same channel.
+# Update: 1/02/2020 - NEW CHANNEL ADDED: NASA has updated their MEDIA live stream, added master source stream in SPECIAL INTEREST.
+# Update: 1/02/2020 - CHANNEL MAINTENANCE: Added additional LIVE NEWS sources.
 #
 # ************************************************************************************************************************************* 
 
@@ -304,10 +307,14 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunk
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/JUCEtv.png" group-title="Special Interest",JUCE TV (Youth)
 https://api.new.livestream.com/accounts/27460990/events/8266912/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 1
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 1 (Public)
+https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 2 (Media)
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 3 (Public Alt)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NASA.png" group-title="Special Interest",NASA TV 4 (Public Alt)
+http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MusicChoice.png" group-title="Special Interest",Music Choice Play (Music)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RelaxingGuitar_350x350.png" group-title="Special Interest",Relaxing Guitar Music
@@ -387,7 +394,7 @@ https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
 https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now MSNBC Live
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/index.m3u8
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 1
 https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCNewsNow.png?raw=true" group-title="NBC News Now",NBC News Now Event 2
@@ -750,13 +757,25 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-1
 https://1686983180.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNN-2
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",HLN-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",Fox-News-2
 https://1686983180.rsc.cdn77.org/ls-54548-2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CNBC-1
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",MSNBC-2
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",CBC-News-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",BBC-World-News-1
+http://1128700637.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/News_1000x1000.png" group-title="Live News",BBC-World-News-2
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RetroMusicTV.png" group-title="International TV",Retro Music TV
@@ -1076,6 +1095,29 @@ http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1729
 http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1727
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-type="live" group-title="PRIVATE-3" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|USA| VH1 HD
 http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1723
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",52 Pluto TV Spotlight
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=5ebdbcd1-9613-4a04-baa5-d08ba278f1e2&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",54 Pluto TV Movies
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=39c327b9-3858-402a-a138-6969706efbe7&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",56 Pluto TV Movies 2
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=bdc787a6-1f04-4255-b807-3957d5a88609&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",60 Pluto TV Comedy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=ee6c38a2-6194-4a05-9987-c5d66f1a75df&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",62 Pluto TV Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=405ff5fd-b490-466c-9f29-607c48b1fbe3&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=65.0.3467.78&appVersion=2.9.2-54d16e0b6418617f090cff53a5854097e137060f&deviceDNT=0&userId=&advertisingId=&deviceLat=40.793&deviceLon=-74.0247&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
 
 
 
