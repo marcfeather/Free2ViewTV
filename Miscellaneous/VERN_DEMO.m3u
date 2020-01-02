@@ -303,6 +303,10 @@ http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RoosterTeeth.png?raw=true" group-title="Special Interest",RT-TV (Video Games)
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazonLive_246x246.png?raw=true" group-title="Special Interest",Shop Amazon Live 1
+https://usher.ttvnw.net/api/lvs/hls/lvs.AmazonLiveTools-prod.bbba001c-a3a2-44cb-9033-306240131a2a.m3u8?allow_source=true&player_backend=mediaplayer&cdm=wv&prefetch_segments=true
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AmazonLive_246x246.png?raw=true" group-title="Special Interest",Shop Amazon Live 2
+https://usher.ttvnw.net/api/lvs/hls/lvs.AmazonLiveTools-prod.e333e288-328b-4b64-b737-31b83b280532.m3u8?allow_source=true&player_backend=mediaplayer&cdm=wv&prefetch_segments=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OutdoorCookingChannel.png" group-title="Special Interest",Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/JUCEtv.png" group-title="Special Interest",JUCE TV (Youth)
